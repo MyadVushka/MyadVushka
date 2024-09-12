@@ -1,8 +1,3 @@
-# Hi there 👋 I'm Arseniy, front-end developer
-
-## I have been developing web applications for a year.
-
-## Usually I use React, Next, Vue, Nuxt
 
 
 
